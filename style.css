@@ -1,0 +1,19 @@
+.container{
+    max-width: 500px;
+    margin: auto;
+    box-shadow: rgba(100, 100, 11) 0px, 7px,5px,0px;
+}
+.form-group{
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+.Error{
+    font-size: medium ;
+    font-style: bold;
+    font-weight: 400;
+    color: red;
+}
+
+.header{
+    
+    color: #2f2f22;
